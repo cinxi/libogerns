@@ -45,15 +45,14 @@ button{
     padding-bottom: 6px;
     padding-left: 12px;
     padding-right: 12px;
-    background-color: #BBAB8C;
+    background-color: #705f3d;
     color: #FAEED1;
-    border-radius: 5px;
     box-shadow: 5px 5px 10px rgba(0,0,0,0.7);
     transition: box-shadow 0.5s;
 }
 
 button:hover{
-    box-shadow: 10px 10px 10px rgba(0,0,0,0.5);
+    box-shadow: 10px 10px 10px rgba(184, 174, 174, 0.5);
 }
 
 button:active{
@@ -72,13 +71,13 @@ button:active{
     padding-right: 300px;
     padding-left: 0;
     margin-bottom: 50px;
-    width: 400px;
-    border: 1px solid black;
-    border-radius: 10px;
+    width: 800px;
+    height: 500px;
     overflow: hidden;
-    padding-bottom: 20px;
-    box-shadow: 5px 10px 10px rgba(0,0,0,0.7);
-    opacity: 0.5;
+    box-shadow: black;
+    padding-bottom: 200px;
+    border-radius: 20px;
+    opacity: 0.8;
     transition: all 0.15s;
 }
 

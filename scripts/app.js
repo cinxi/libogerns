@@ -18,7 +18,7 @@ const { title, par, button, img } = obj1
 let obj2 = {
     image   : "./images/h.jpg",
     desc    : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Libero eius fugit facilis odit voluptatem provident, fuga asperiores possimus perferendis deserunt perspiciatis, architecto mollitia atque! Debitis, saepe! Sint inventore incidunt sequi.",
-    button1 : "learn more",
+    button1 : "Learn More",
     title2  : "Project Complete"
 }
 
