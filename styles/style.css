@@ -1,0 +1,115 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: #FDF7E4;
+    align-content: center;
+}
+.sec1con{
+    padding-top: 150px;
+    margin-bottom: 50px;
+}
+
+div{
+    padding-left: 100px;
+}
+
+img{
+    width: 500px;
+}
+
+p, h1{
+    width: 400px;
+    margin-bottom: 20px;
+    text-align: justify;
+}
+
+.sec1{
+    display: flex;
+    margin-top: 20px;
+}
+
+.sec2{
+    display: flex;
+    justify-content: space-evenly;
+    width: 1000px;
+    margin-left: 100px;
+}
+
+
+button{
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 12px;
+    padding-right: 12px;
+    background-color: #BBAB8C;
+    color: #FAEED1;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.7);
+    transition: box-shadow 0.5s;
+}
+
+button:hover{
+    box-shadow: 10px 10px 10px rgba(0,0,0,0.5);
+}
+
+button:active{
+    transition: opacity 0.15s;
+    opacity: 0.8;
+}
+
+.hop{
+    width: 300px;
+    height: 300px;
+
+}
+
+.cardsec2{
+    margin-right: 20px;
+    padding-right: 300px;
+    padding-left: 0;
+    margin-bottom: 50px;
+    width: 400px;
+    border: 1px solid black;
+    border-radius: 10px;
+    overflow: hidden;
+    padding-bottom: 20px;
+    box-shadow: 5px 10px 10px rgba(0,0,0,0.7);
+    opacity: 0.5;
+    transition: all 0.15s;
+}
+
+.cardsec2:hover{
+    opacity: 1;
+    box-shadow: 10px 20px 20px rgba(0,0,0,0.5);
+}
+
+.cardsec2:active{
+    box-shadow: 5px 10px 10px rgba(0,0,0,0.7);
+}
+
+.hud{
+    margin-left: 20px;
+    margin-right: 10px;
+    width: 280px;
+
+}
+
+.but{
+    margin-left: 10px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 12px;
+    padding-right: 12px;
+    width: 100px;
+}
+
+.sec3 h1{
+    justify-content: center;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 270px;
+}
